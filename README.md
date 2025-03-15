@@ -1,0 +1,1 @@
+I was curious how OpenAI API works so I built a Telegram bot with ChatGPT API that can talk about your feelings and support your mental help. So in case you don't have any friends but you want to talk to someone here is the chatbot [https://t.me/mood_companion_bot]([url](https://t.me/mood_companion_bot))
